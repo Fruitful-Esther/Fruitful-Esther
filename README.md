@@ -10,4 +10,5 @@
     <a href="https://www.linkedin.com/in/esther-john-55489a178/" target="_blank" style="display: inline-block; background-color: purple; color: white; text-decoration: none; padding: 10px 20px; border-radius: 5px; margin: 5px;">LinkedIn</a>
     <a href="https://fruitful-esther.github.io/portfolio" target="_blank" style="display: inline-block; background-color: green; color: white; text-decoration: none; padding: 10px 20px; border-radius: 5px; margin: 5px;">Web Portfolio</a>
     <a href="https://www.kaggle.com/fruitfulesther" target="_blank" style="display: inline-block; background-color: red; color: white; text-decoration: none; padding: 10px 20px; border-radius: 5px; margin: 5px;">Kaggle</a>
+    https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 </div>
