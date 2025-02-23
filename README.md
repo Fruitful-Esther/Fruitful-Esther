@@ -5,7 +5,7 @@
     <p style="font-size: 16px; line-height: 1.6; color: black; margin-bottom: 20px;">
        I'm a passionate Data Scientist and Analyst. I love turning raw data into useful insights with engaging visualizations. You’re welcome to join me in exploring the exciting world of data and discovering the stories it holds!" 📊🔍✨
     </p>
-    <p style="color: black; font-size: 16px; font-weight: bold;">Connect with me:</p>
+    <p style="color: black; font-size: 16px; font-weight: bold;">Connect with me!</p>
     <a href="https://www.linkedin.com/in/esther-john-55489a178/" target="_blank" style="display: inline-block; background-color: purple; color: white; text-decoration: none; padding: 10px 20px; border-radius: 5px; margin: 5px;">LinkedIn</a>
     <a href="https://fruitful-esther.github.io/portfolio" target="_blank" style="display: inline-block; background-color: green; color: white; text-decoration: none; padding: 10px 20px; border-radius: 5px; margin: 5px;">Web Portfolio</a>
     </div>
